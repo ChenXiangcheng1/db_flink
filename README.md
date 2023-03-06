@@ -9,4 +9,4 @@
 5. 探索 Flink 生态圈，如 Flink SQL、Flink ML、Flink Gelly 等，了解如何使用 Flink 解决不同类型的问题。
 6. 参与 Flink 社区，了解最新的开发动态和技术趋势，与其他开发者交流经验和问题。
 
-4
+9
