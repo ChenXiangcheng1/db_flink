@@ -15,13 +15,14 @@
     </properties>
 
     <dependencies>
-        <!-- flink的依赖 -->
+        <!-- 开发离线flink模式的依赖 -->
         <dependency>
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-java</artifactId>
             <version>1.11.1</version>
 <!--            <scope>provided</scope>-->
         </dependency>
+<!--        开发实时flink的依赖-->
         <dependency>
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-streaming-java_2.12</artifactId>
